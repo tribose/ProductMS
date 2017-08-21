@@ -1,0 +1,1 @@
+CREATE TABLE products(productId INTEGER NOT NULL, productName VARCHAR(100) NOT NULL, productType VARCHAR(100) DEFAULT NULL,PRIMARY KEY (productId));
