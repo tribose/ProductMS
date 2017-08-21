@@ -1,2 +1,2 @@
 # ProductMS
-Includes services to do CRUD operations on Retail Products, uses HSQL in-memory database
+Includes RESTFul Web Services to perform CRUD operations on Retail Products. This application uses PRODUCTS table of HSQL in-memory database to store product details
